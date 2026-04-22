@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AdvancedClass.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdvancedClass.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdvancedClassEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AdvancedClass">
+      <UniqueIdentifier>{1FD1E373-7FAF-3993-9277-752065EEF689}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdvancedClass\AdvancedClass.Build.cs">
+      <Filter>Source\AdvancedClass</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AdvancedClass\AdvancedClass.cpp">
+      <Filter>Source\AdvancedClass</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\AdvancedClass.h">
+      <Filter>Source\AdvancedClass</Filter>
+    </ClCompile>
+    <Filter Include="Source\AdvancedClass\Private">
+      <UniqueIdentifier>{2ACD8BC7-CEF5-3285-B87E-6C0C78739510}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyGCObserver.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyGCObserver.h">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestActor.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestActor.h">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestGameModeBase.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestGameModeBase.h">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestObject.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\MyTestObject.h">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\SecondActor.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Private\SecondAssignmentInv.cpp">
+      <Filter>Source\AdvancedClass\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\AdvancedClass\Public">
+      <UniqueIdentifier>{A6A193C3-9DDC-3128-B546-FC0A5704BC5B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\AdvancedClass\Public\SecondActor.h">
+      <Filter>Source\AdvancedClass\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AdvancedClass\Public\SecondAssignmentInv.h">
+      <Filter>Source\AdvancedClass\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

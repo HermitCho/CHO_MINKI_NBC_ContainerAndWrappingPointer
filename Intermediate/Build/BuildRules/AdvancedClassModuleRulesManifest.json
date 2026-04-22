@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealEngine\\AdvancedClass\\Source\\AdvancedClass\\AdvancedClass.Build.cs",
+		"D:\\UnrealEngine\\AdvancedClass\\Source\\AdvancedClass.Target.cs",
+		"D:\\UnrealEngine\\AdvancedClass\\Source\\AdvancedClassEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
